@@ -1,0 +1,121 @@
+
+m = 500000000
+diff1 = 2 diff2 = 2
+left = 0 right = 500000000
+
+m = 250000000
+diff1 = 2 diff2 = 2
+left = 0 right = 250000000
+
+m = 125000000
+diff1 = 2 diff2 = 2
+left = 0 right = 125000000
+
+m = 62500000
+diff1 = 2 diff2 = 2
+left = 0 right = 62500000
+
+m = 31250000
+diff1 = 2 diff2 = 2
+left = 0 right = 31250000
+
+m = 15625000
+diff1 = 2 diff2 = 2
+left = 0 right = 15625000
+
+m = 7812500
+diff1 = 2 diff2 = 2
+left = 0 right = 7812500
+
+m = 3906250
+diff1 = 2 diff2 = 2
+left = 0 right = 3906250
+
+m = 1953125
+diff1 = 2 diff2 = 2
+left = 0 right = 1953125
+
+m = 976562
+diff1 = 66813 diff2 = 66813
+left = 0 right = 976562
+
+m = 488281
+diff1 = 66789 diff2 = 66789
+left = 488281 right = 976562
+
+m = 732421
+diff1 = 66802 diff2 = 66802
+left = 488281 right = 732421
+
+m = 610351
+diff1 = 66793 diff2 = 66793
+left = 488281 right = 610351
+
+m = 549316
+diff1 = 66792 diff2 = 66792
+left = 488281 right = 549316
+
+m = 518798
+diff1 = 66791 diff2 = 66791
+left = 518798 right = 549316
+
+m = 534057
+diff1 = 66790 diff2 = 66790
+left = 518798 right = 534057
+
+m = 526427
+diff1 = 66792 diff2 = 66792
+left = 526427 right = 534057
+
+m = 530242
+diff1 = 66792 diff2 = 66792
+left = 530242 right = 534057
+
+m = 532149
+diff1 = 66792 diff2 = 66792
+left = 532149 right = 534057
+
+m = 533103
+diff1 = 66792 diff2 = 66792
+left = 533103 right = 534057
+
+m = 533580
+diff1 = 66792 diff2 = 66792
+left = 533580 right = 534057
+
+m = 533818
+diff1 = 66792 diff2 = 66792
+left = 533818 right = 534057
+
+m = 533937
+diff1 = 66790 diff2 = 66790
+left = 533818 right = 533937
+
+m = 533877
+diff1 = 66792 diff2 = 66792
+left = 533877 right = 533937
+
+m = 533907
+diff1 = 66792 diff2 = 66792
+left = 533907 right = 533937
+
+m = 533922
+diff1 = 66790 diff2 = 66790
+left = 533907 right = 533922
+
+m = 533914
+diff1 = 66792 diff2 = 66792
+left = 533914 right = 533922
+
+m = 533918
+diff1 = 66792 diff2 = 66792
+left = 533918 right = 533922
+
+m = 533920
+diff1 = 66792 diff2 = 66792
+left = 533920 right = 533922
+
+m = 533921
+diff1 = 66792 diff2 = 66790
+left = 533921 right = 533922
+66791
